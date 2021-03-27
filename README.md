@@ -16,7 +16,8 @@ This project is a code refactor of the Horiseon webpage. I was tasked with makin
 <h2>Links</h2>
 
 *  <a href="https://github.com/tylerhance/Horiseon--accessibility-code-refactor">Link to Code Repository</a>
-*  <a href="https://tylerhance.github.io/Horiseon-accessibility-code-refactor/">Link to deployed website</a>
+*  <a href="https://tylerhance.github.io/Horiseon-accessibility-code-refactor/">Link ,to deployed website</a>
 
+<h2>Screenshot</h2>
 
-
+![Preview of the Horiseon webpage.](./assets/images/homework01-screenshot.png)
