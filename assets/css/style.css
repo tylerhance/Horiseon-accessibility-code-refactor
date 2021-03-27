@@ -51,6 +51,8 @@ p {
     font-size: 16px;
 }
 
+/* Class Element Styles */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -70,7 +72,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -135,7 +137,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -162,7 +164,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.service img {
     max-height: 200px;
 }
 
@@ -174,7 +176,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
