@@ -8,9 +8,9 @@ This project is a code refactor of the Horiseon webpage. I was tasked with makin
 
 * Consolidated repetitive classes and added specification.
 * 'alt' texts were added to the images.
-* HTML elements were replaced with semantic elements.
+* HTML elements were replaced with HTML semantic tags/elements.
 * Added comments in the HTML/CSS documents for clarity.
-* CSS stylesheet had classes and elements structured more cohesivley.
+* CSS stylesheet has classes and elements structured more cohesivley.
 * A more descriptive title was added.
 
 <h2>Links</h2>
