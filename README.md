@@ -20,4 +20,6 @@ This project is a code refactor of the Horiseon webpage. I was tasked with makin
 
 <h2>Screenshot</h2>
 
-![Preview of the Horiseon webpage.](./assets/images/homework01-screenshot.png)
+![HoriseonScreenshot](./assets/images/screenshot.png)
+
+![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](./assets/images/homework01-screenshot.png)
